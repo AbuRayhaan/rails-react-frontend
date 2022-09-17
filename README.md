@@ -1,6 +1,6 @@
-# global-holiday-metrics-app
+# HELLO RAILS REACT
 
-A simple react app that uses Rails for Backend and React for Frontend.
+A simple app that uses Rails for Backend and React for Frontend.
 
 ## Built With
 
@@ -9,11 +9,6 @@ A simple react app that uses Rails for Backend and React for Frontend.
 - API
 - JSX
 - REACT-ROUTER-DOM
- 
- ## Live Demo
-
-## Website MockUp
-![screenshot](images/device.png)
 
 ## Getting Started
 
@@ -35,9 +30,11 @@ To get a local copy up and running:
 
 - LinkedIn: [Adisa Hammed](https://www.linkedin.com/in/hammed-adisa/)
 
-## Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/AbuRayhaan/rails-react-frontend/issues).
 
 ## Show your support
 

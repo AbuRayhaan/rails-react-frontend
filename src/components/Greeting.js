@@ -1,5 +1,4 @@
-import React from 'react';
-import { useEffect } from 'react';
+import { React, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getGreetingAsync } from '../store/greetingReducer';
 
@@ -18,7 +17,7 @@ const Greeting = () => {
   return (
     <div className="div">
       <h1>{greet}</h1>
-      <button onClick={handleGreeting}>Get Greeting</button>
+      <button type= 'submit' onClick={handleGreeting}>Get Greeting</button>
     </div>
   );
 };

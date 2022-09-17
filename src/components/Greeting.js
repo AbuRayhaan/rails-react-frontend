@@ -17,7 +17,7 @@ const Greeting = () => {
   return (
     <div className="div">
       <h1>{greet}</h1>
-      <button type= 'submit' onClick={handleGreeting}>Get Greeting</button>
+      <button type="submit" onClick={handleGreeting}>Get Greeting</button>
     </div>
   );
 };
